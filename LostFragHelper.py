@@ -2,8 +2,6 @@
 #Jacob Tyler, 9/26/22
 
 import os
-import sys 
-import binascii
 
 versionNumber = 0.1
 
