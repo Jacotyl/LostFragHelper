@@ -21,7 +21,7 @@ with the .pack_XOR extension.
 
 Open the dl folder in [AssetStudio](https://github.com/Perfare/AssetStudio).
 
-It is recommended that before extracting the files via [AssetStudio](https://github.com/Perfare/AssetStudio), that the "Group exported assets by" option is changed to "container path" for the filestructure to remain intact for the exported assets. 
+It is recommended that before extracting the files via [AssetStudio](https://github.com/Perfare/AssetStudio), that the "Group exported assets by" option is changed to "container path" for the file structure to remain intact for the exported assets. 
 
 ## Planned Features
 - Automated composition of sprite faces + bodies after extraction.
