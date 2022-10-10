@@ -44,7 +44,7 @@ if __name__ == "__main__":
         #"/Master",
         #"/Synonym",
         #"/Text",
-        #"/UnitParts",
+        "/UnitParts",
         "/Background",
         "/CharacterTex",
         "/Effect",
